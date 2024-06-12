@@ -7,5 +7,5 @@
 <h1>Phần 3</h1>
 <img src="https://github.com/Dawn-Zzz/ATBMTT/assets/105932339/4b17fec9-9b26-4618-b4f3-60775239d68f"/>
 <h1>Link list video tham khảo</h1>
-<a>https://www.youtube.com/watch?v=oqw555-u1dU&list=PLoZIaUQhwJWOZPuhTU6UPJjwZjjOVECj3&index=2</a>
+<a href="https://www.youtube.com/watch?v=oqw555-u1dU&list=PLoZIaUQhwJWOZPuhTU6UPJjwZjjOVECj3&index=2">List video của anh nào đó</a>
 
